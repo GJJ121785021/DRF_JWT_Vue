@@ -81,8 +81,6 @@
             }
         },
         // qq登录
-        qq_login: function(){
-
-        }
+        qq_login: function(){}
     }
 });
